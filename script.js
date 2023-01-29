@@ -22,7 +22,7 @@ btnEl.addEventListener("click", ()=>{
         <br>
         <br>
         <strong>Feedback: ${selectedRating}</strong>
-        <p>We'll use your feedback to improve our customer support.
+        <p>I'll use your feedback to improve My UI Skills.
         `
     }
 })
